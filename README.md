@@ -1,5 +1,5 @@
 # module9_homework
-JavaScript HW. Здесь представлены упражнения для закрепления базовых навыков работы с запросами в JavaScript.
+JavaScript HW. <a href="https://anastasia-ci.github.io/module9_homework/">Здесь</a> представлены упражнения для закрепления базовых навыков работы с запросами в JavaScript.
 
 <b>Задание 1</b>
 
